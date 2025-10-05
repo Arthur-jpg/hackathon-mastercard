@@ -30,7 +30,7 @@ market_share_data = {
 # Dados de características dos bancos
 bancos_caracteristicas = {
     'Banco': ['Priceless Bank', 'LuminaPay', 'Papaya Bank', 'Aurora Bank', 'Lux Bank'],
-    'Digital_Score': [5, 9, 3, 6, 3],
+    'Digital_Score': [5, 9, 3, 8, 3],
     'Canal_Digital_Pct': [50, 100, 50, 100, 0],
     'NPS': [65, 76, 64, 55, 82],  # Estimado para Priceless
     'Market_Share_Q1': [33, 17, 36, 8, 6],
