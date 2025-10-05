@@ -1,0 +1,13 @@
+categoria,total_clientes,clientes_churn,taxa_churn_pct,periodo
+Idade 35-44,136,35,25.74,30 dias
+Standard,5,5,100.0,30 dias
+Cartão 7-12m,32,29,90.63,30 dias
+Renda Baixa,43,9,20.93,30 dias
+Idade 35-44,136,15,11.03,60 dias
+Standard,5,4,80.0,60 dias
+Cartão 7-12m,32,27,84.38,60 dias
+Renda Baixa,43,6,13.95,60 dias
+Idade 35-44,136,9,6.62,90 dias
+Standard,5,4,80.0,90 dias
+Cartão 7-12m,32,20,62.5,90 dias
+Renda Baixa,43,3,6.98,90 dias
